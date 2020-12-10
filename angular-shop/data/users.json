@@ -1,0 +1,142 @@
+{
+      "email" : "demo-admin@bar.com",
+      "firstName" : "Chuck",
+      "lastName" : "Norris",
+      "roles" : {
+        "admin" : true
+      }
+}
+{
+      "email" : "foo@bar.com",
+      "firstName" : "Foo",
+      "lastName" : "Bar",
+      "orders" : {
+        "-L9ilAqUNcwV3X-TkWKc" : {
+          "customer" : {
+            "address1" : "Foostreet",
+            "city" : "Foosy",
+            "country" : "Switzerland",
+            "email" : "foo@bar.com",
+            "firstname" : "Foo",
+            "lastname" : "Bar",
+            "zip" : "1234"
+          },
+          "date" : "Tue Apr 10 2018 10:55:52 GMT+0200 (CEST)",
+          "items" : [ {
+            "amount" : 1,
+            "product" : {
+              "categories" : {
+                "Clothing" : true
+              },
+              "currentRating" : 3,
+              "date" : "2018-04-02",
+              "description" : "No one looks good in a fedora, but who cares anyway.",
+              "id" : 830862339928,
+              "imageRefs" : [ "product-images/1522670798623_[object File]" ],
+              "imageURLs" : [ "https://firebasestorage.googleapis.com/v0/b/cas-fee-shop.appspot.com/o/product-images%2F1522670798623_%5Bobject%20File%5D?alt=media&token=ff1a891a-4151-4afe-89fb-f18a9fc5bfe8" ],
+              "name" : "Not-So-Classic Fedora",
+              "price" : 130,
+              "priceNormal" : 130,
+              "ratings" : {
+                "4pBet4nCwcX9AooCpoKt4rEq9Ir1" : 1,
+                "EF8ngX1RvuZLb0Gc4GvoVAMzap72" : 5
+              },
+              "reduction" : 0,
+              "sale" : false
+            }
+          }, {
+            "amount" : 1,
+            "product" : {
+              "categories" : {
+                "Shoes" : true
+              },
+              "currentRating" : 1,
+              "date" : "2018-04-02",
+              "description" : "Those are some nice shoes you'll get there....",
+              "id" : 816056417742,
+              "imageRefs" : [ "product-images/1522670457485_[object File]" ],
+              "imageURLs" : [ "https://firebasestorage.googleapis.com/v0/b/cas-fee-shop.appspot.com/o/product-images%2F1522670457485_%5Bobject%20File%5D?alt=media&token=7699c36c-e202-4dd2-9b1a-d7f1fcd223f4" ],
+              "name" : "«Nice» Shoes",
+              "price" : 120,
+              "priceNormal" : 120,
+              "ratings" : {
+                "C4qgFqlW1dPl1tnOmlTB3rlESti1" : 1,
+                "EF8ngX1RvuZLb0Gc4GvoVAMzap72" : 1
+              },
+              "reduction" : 0,
+              "sale" : false
+            }
+          } ],
+          "number" : "6527425208",
+          "paymentMethod" : "Paypal",
+          "shippingMethod" : "economy",
+          "status" : "In Progress",
+          "total" : 250
+        },
+        "-LAgj-6sPy02xwkVs35v" : {
+          "customer" : {
+            "address1" : "Landstrasse 74",
+            "city" : "Rieden",
+            "country" : "Switzerland",
+            "email" : "foo@bar.com",
+            "firstname" : "Foo",
+            "lastname" : "Bar",
+            "phone" : "1234553",
+            "zip" : "5415"
+          },
+          "date" : "Sun Apr 22 2018 11:42:47 GMT+0200 (CEST)",
+          "items" : [ {
+            "amount" : 1,
+            "product" : {
+              "categories" : {
+                "Jewelry" : true
+              },
+              "currentRating" : 3,
+              "date" : "2018-04-02",
+              "description" : "Despite the name, these earrings won't give you magical powers  – or will they? Find out for yourself!",
+              "id" : 1174268122548,
+              "imageRefs" : [ "product-images/1522678065417_[object File]" ],
+              "imageURLs" : [ "https://firebasestorage.googleapis.com/v0/b/cas-fee-shop.appspot.com/o/product-images%2F1522678065417_%5Bobject%20File%5D?alt=media&token=eedccb30-2020-4d0d-94f0-29fe82c83d17" ],
+              "name" : "Magical Earrings",
+              "price" : 150,
+              "priceNormal" : 150,
+              "ratings" : {
+                "4pBet4nCwcX9AooCpoKt4rEq9Ir1" : 5,
+                "EF8ngX1RvuZLb0Gc4GvoVAMzap72" : 1
+              },
+              "reduction" : 0,
+              "sale" : false
+            }
+          }, {
+            "amount" : 1,
+            "product" : {
+              "categories" : {
+                "Backpacks" : true
+              },
+              "currentRating" : 4,
+              "date" : "2018-04-01",
+              "description" : "No padding, just packing",
+              "id" : 1460918804231,
+              "imageRefs" : [ "product-images/1522681916692_[object File]" ],
+              "imageURLs" : [ "https://firebasestorage.googleapis.com/v0/b/cas-fee-shop.appspot.com/o/product-images%2F1522681916692_%5Bobject%20File%5D?alt=media&token=9213065a-0ace-4ad8-bb6d-cafe6da093ab" ],
+              "name" : "Pack It On Your Back",
+              "price" : 150,
+              "priceNormal" : 200,
+              "ratings" : {
+                "EF8ngX1RvuZLb0Gc4GvoVAMzap72" : 4
+              },
+              "reduction" : 25,
+              "sale" : true
+            }
+          } ],
+          "number" : "201216881",
+          "paymentMethod" : "Paypal",
+          "shippingMethod" : "economy",
+          "status" : "In Progress",
+          "total" : 300
+        }
+      },
+      "roles" : {
+        "admin" : false
+      }
+    }

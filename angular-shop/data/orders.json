@@ -1,0 +1,135 @@
+{
+  "customer" : {
+    "address1" : "Musterstrasse 13",
+    "address2" : "",
+    "city" : "Musterhausen",
+    "company" : "",
+    "country" : "Switzerland",
+    "email" : "hans.muster@muster.com",
+    "firstname" : "Hans",
+    "lastname" : "Muster",
+    "phone" : "+41791234567",
+    "zip" : 1234
+  },
+  "date" : "Mon Mar 26 2018 20:51:54 GMT+0200 (CEST)",
+  "items" : [ {
+    "amount" : 1,
+    "product" : {
+      "categories" : [ "Bags" ],
+      "description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "id" : 21,
+      "imageURLs" : [ "img/shop/products/02.jpg", "img/shop/products/02.jpg", "img/shop/products/02.jpg" ],
+      "name" : "Bag",
+      "price" : 49,
+      "priceNormal" : 49,
+      "reduction" : 0
+    }
+  }, {
+    "amount" : 1,
+    "product" : {
+      "categories" : [ "Shoes" ],
+      "description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "id" : 20,
+      "imageURLs" : [ "img/shop/products/01.jpg", "img/shop/products/02.jpg" ],
+      "name" : "Shoes",
+      "price" : 69.3,
+      "priceNormal" : 99,
+      "reduction" : 70
+    }
+  } ],
+  "number" : "7174454415",
+  "paymentMethod" : "Paypal",
+  "shippingMethod" : "economy",
+  "status" : "In Progress",
+  "total" : 118.3
+}
+{
+  "customer" : {
+    "address1" : "Musterstrasse 13",
+    "address2" : "",
+    "city" : "Musterhausen",
+    "company" : "",
+    "country" : "Switzerland",
+    "email" : "hans.muster@muster.com",
+    "firstname" : "Hans",
+    "lastname" : "Muster",
+    "phone" : "+41791234567",
+    "zip" : 1234
+  },
+  "date" : "Mon Mar 26 2018 20:52:32 GMT+0200 (CEST)",
+  "items" : [ {
+    "amount" : 1,
+    "product" : {
+      "categories" : [ "Bags" ],
+      "description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "id" : 21,
+      "imageURLs" : [ "img/shop/products/02.jpg", "img/shop/products/02.jpg", "img/shop/products/02.jpg" ],
+      "name" : "Bag",
+      "price" : 49,
+      "priceNormal" : 49,
+      "reduction" : 0
+    }
+  }, {
+    "amount" : 1,
+    "product" : {
+      "categories" : [ "Shoes" ],
+      "description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "id" : 20,
+      "imageURLs" : [ "img/shop/products/01.jpg", "img/shop/products/02.jpg" ],
+      "name" : "Shoes",
+      "price" : 69.3,
+      "priceNormal" : 99,
+      "reduction" : 70
+    }
+  } ],
+  "number" : "6976760358",
+  "paymentMethod" : "Paypal",
+  "shippingMethod" : "economy",
+  "status" : "In Progress",
+  "total" : 118.3
+}
+{
+  "customer" : {
+    "address1" : "Musterstrasse 13",
+    "address2" : "",
+    "city" : "Musterhausen",
+    "company" : "",
+    "country" : "Switzerland",
+    "email" : "hans.muster@muster.com",
+    "firstname" : "Hans",
+    "lastname" : "Muster",
+    "phone" : "+41791234567",
+    "zip" : 1234
+  },
+  "date" : "Mon Mar 26 2018 20:52:33 GMT+0200 (CEST)",
+  "items" : [ {
+    "amount" : 1,
+    "product" : {
+      "categories" : [ "Bags" ],
+      "description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "id" : 21,
+      "imageURLs" : [ "img/shop/products/02.jpg", "img/shop/products/02.jpg", "img/shop/products/02.jpg" ],
+      "name" : "Bag",
+      "price" : 49,
+      "priceNormal" : 49,
+      "reduction" : 0
+    }
+  }, {
+    "amount" : 1,
+    "product" : {
+      "categories" : [ "Shoes" ],
+      "description" : "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "id" : 20,
+      "imageURLs" : [ "img/shop/products/01.jpg", "img/shop/products/02.jpg" ],
+      "name" : "Shoes",
+      "price" : 69.3,
+      "priceNormal" : 99,
+      "reduction" : 70
+    }
+  } ],
+  "number" : "8073013176",
+  "paymentMethod" : "Paypal",
+  "shippingMethod" : "economy",
+  "status" : "In Progress",
+  "total" : 118.3
+}
